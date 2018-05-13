@@ -1,14 +1,14 @@
-# react-redux-webpack-boilerplate
+# movie portal
 
 ### description
 
-this is a boilerplate for react16.3 redux4 webpack4 eslint and babel apps
+this is a movie poratl to watch all the movies
 
 #### to run in local
 
 ```
-> git clone
-> cd react16.3-redux4-webpack4-boilerplate
+> git clone https://github.com/sravan464/movie-portal.git
+> cd movie portal
 > npm install or yarn install
 > npm start or yarn start
 ```

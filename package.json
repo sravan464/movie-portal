@@ -1,10 +1,9 @@
 {
-  "name": "react16.3-redux4-webpack4-boilerplate",
+  "name": "movie-portal",
   "version": "1.0.0",
-  "description":
-    "this is a boilerplate for react16.3 redux4 webpack4 eslint and babel apps",
+  "description": "this is a movie poratl to watch all the movies",
   "main": "index.js",
-  "repository": "git@github.com:sravan464/react-redux-webpack-boilerplate.git",
+  "repository": "git@github.com:sravan464/movie-portal.git",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
     "build": "webpack --mode production",
@@ -12,7 +11,7 @@
       "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
     "test:watch": "npm run test -- --watch"
   },
-  "author": "",
+  "author": "sravan kumar ganji",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.26.3",
