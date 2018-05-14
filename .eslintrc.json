@@ -1,5 +1,5 @@
 {
-  "extends": ["standard", "standard-react"],
+  "extends": ["standard", "standard-react", "eslint:recommended"],
   "rules": {
     "no-unused-vars": [
       "warn",
